@@ -1,0 +1,21 @@
+[20-Nov-2018 13:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hotlinekhabar/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hotlinekhabar/public_html/wp-includes/locale.php on line 10
+[23-Nov-2018 06:00:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hotlinekhabar/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hotlinekhabar/public_html/wp-includes/rss-functions.php on line 8
+[23-Nov-2018 06:00:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hotlinekhabar/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hotlinekhabar/public_html/wp-includes/rss-functions.php on line 8
+[23-Nov-2018 06:15:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hotlinekhabar/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hotlinekhabar/public_html/wp-includes/rss-functions.php on line 8
+[23-Nov-2018 06:16:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hotlinekhabar/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hotlinekhabar/public_html/wp-includes/rss-functions.php on line 8
+[01-Dec-2018 01:02:28 UTC] PHP Fatal error:  Class 'Walker' not found in /home/hotlinekhabar/public_html/wp-includes/class-walker-nav-menu.php on line 17
